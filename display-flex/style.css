@@ -1,0 +1,17 @@
+#main{
+    height: 100%;
+    width: 100%;
+}
+.card{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 0%;
+}
